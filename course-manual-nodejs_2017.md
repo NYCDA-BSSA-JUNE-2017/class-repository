@@ -1,4 +1,4 @@
-# NodeJS Intensive Web Development Course April 2017
+# NodeJS Intensive Web Development Course June 2017
 *__Optimized PBL Curriculum__*
 
 Welcome to the NodeJS course by the NYCDA. This document details the lessons you will be following over this 12 week program.
@@ -9,15 +9,15 @@ It is of vital importance that you understand the Problem Based Learning format.
 
 For questions:
 
->About Class: contact Melvin (@melvinroest on Slack)  
+>About Class: contact Lloyd (@lloyd on Slack)  
 >About Administration and the NYCDA: contact Manouk (@manoukmeilof on Slack)  
->About Grades & homework: contact Jurgen Tonneyck (@piepongwong on Slack)  
+>About Grades & homework: contact Noer (@noerone on Slack)  
 
 ## Important note on Intensity & Prework
 
 This course is called Web Development **Intensive**.
 
-Dedication and hard work will be needed from everyone involved. This course will be fun, but do not forget that we are basically opening up en entire carreer path in a couple of weeks!
+Dedication and hard work will be needed from everyone involved. This course will be fun, but do not forget that we are basically opening up en entire career path in a couple of weeks!
 
 Be sure to do the pre-work you have been assigned. This course assumes you are familiar with:
 
@@ -46,9 +46,9 @@ Programming languages go in/out of fashion. You will learn to pick up new langua
 
 Programming is basically a superpower that lets you create real world-changing things by writing down things you imagined in your head in a magical language.
 
-## The Class Schedule 
+## The Class Schedule
 
-Our days will follow a structure that facilitates your learning experience. Our days together will typically take the folowing structure:
+Our days will follow a structure that facilitates your learning experience. Our days together will typically take the following structure:
 
 | Time    | Activity |
 |---------|----------|
@@ -74,7 +74,7 @@ _The short version: it will make you very competent very fast_
 **Click the image below for a little video about Problem/Project Based Learning**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LMCZvGesRz8
-" target="_blank"><img src="http://img.youtube.com/vi/LMCZvGesRz8/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/LMCZvGesRz8/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="300px" height="auto" border="0" /></a>
 
 
@@ -85,7 +85,7 @@ If you are used to the traditional system PBL might take some getting used to. I
 | System         | Learning   | Study   | Examination   |
 |----------------|------------|---------|---------------|
 | Traditional    | Told what you need to know | Memorize knowledge | Reproduce knowledge on exam
-| PBL            | Problem assigned | Identity what needs to be learned and learn it | Apply the solution of the problem
+| PBL            | Problem assigned | Identify what needs to be learned and learn it | Apply the solution of the problem
 
 Programming and development is a very creative skill. There are always multiple solutions to a problem, and even more styles in which to implement these solutions.
 
@@ -184,7 +184,7 @@ Session script:
 
 #### Notes and documentation
 
-Taking notes of the pre- and post-discussions is extremely helpful. Not only will it help your learing process, but it will result your own unique summary of the entire course!
+Taking notes of the pre- and post-discussions is extremely helpful. Not only will it help your learning process, but it will result in your own unique summary of the entire course!
 
 We highly recommend:
 
@@ -200,48 +200,49 @@ The schedule is 5 days a week times 12 weeks is 60 days long.
 | Day     | PBL Topic | Exercise         | Non PBL Topic/Lecture
 |---------|----------------|----------------|------|
 | 1       | Values, types and Operators | FizzBuzz | Breaking down problems
-| 2       | Functions and objects | Book library | 
+| 2       | Functions and objects | Book library |
 | 3       | Scope & anonymous functions | Math Anonymous functions | Git & Github basics
-| 4       | Prototypes | Prototype practice | 
-| 5       | jQuery | Project personal website | 
+| 4       | Prototypes | Prototype practice |
+| 5       | jQuery | Project personal website |
 | 6       | As needed | Project personal website | HTML/CSS Refresher Livecode
-| 7       | As needed | "" | 
+| 7       | As needed | "" |
 | 8       | Source control | Project Business website | Git branching
-| 9-10    | As needed | Project business website | 
+| 9-10    | As needed | Project business website |
 | 11      | NodeJS | Play around | npm
-| 12      | Node modules | Coutry information app | 
+| 12      | Node modules | Coutry information app |
 | 13-14   | As needed | "" |
 | 15      | Retrospective | As needed | Technology stack overview
 | 16      | cURL | Business website on NodeJS server | Routers
 | 17      | Pug | User information app | Client side vs server side JS
-| 18-20   | As needed | "" | 
-| 21      | AJAX | AJAX User information app | 
-| 22-25   | As needed | "" | 
-| 26      | SQL | Live during lecture | 
+| 18-20   | As needed | "" |
+| 21      | AJAX | AJAX User information app |
+| 22-25   | As needed | "" |
+| 26      | SQL | Live during lecture |
 | 27      | Postgres | Bulletin board |
-| 28      | Promises & sequelize | ORM Lite + Bulletin board | 
-| 29-30   | As needed | Bulletin board | 
-| 31      | Cookies & sessions | Blog application | 
-| 32      | As needed | "" | RESTful routing, Express generator, MVC
+| 28      | As needed | ORM Lite + Bulletin board |
+| 29-30   | As needed | Bulletin board |
+| 31      | Intro to ES6 | Blog application |
+| 32      | Promises & Sequelize | "" | RESTful routing, Express generator, MVC
 | 33      | Relational databases | Database model diagram | Relational database hat/user code demo
-| 32-35   | As needed | "" | RESTful routing, Express generator, MVC
-| 36      | BCrypt / Data validation | Extend application with BCrypt | 
-| 37      | Frontend frameworks | Use bootstrap or other framework | 
-| 38-39   | As needed | "" | 
-| 40      | Project specification & teamwork | Group project | 
-| 42-45   | SASS | Implement SASS in blog application | 
-| 46      | Testing | "" | 
+| 32-34   | As needed | "" | RESTful routing, Express generator, MVC
+| 35      | Cookies & sessions
+| 36      | BCrypt / Data validation | Extend application with BCrypt |
+| 37      | Frontend frameworks | Use bootstrap or other framework |
+| 38-39   | As needed | "" |
+| 40      | Project specification & teamwork | Group project |
+| 42-45   | SASS | Implement SASS in blog application |
+| 46      | Testing | "" |
 | 47-50   | As needed | "" | Presenting
 | 51-60  | As needed | Final project | JS Morning exercises, optionals
 
 The last weeks allow for a lot of extra materials. The group will be asked for what they would like to cover.
 
 * Recommended: Sendgrid, Domains, Hosting, PM2, Deployment
-* Based on interest: Socket, Passport, React, Angular, Gulp, ES6
+* Based on interest: Socket, Passport, React, Angular, Gulp
 
 # Discussion topics
 
-The exact dates for these topics will be communicated to you durng the course.
+The exact dates for these topics will be communicated to you during the course.
 
 ## Values, Types and Operators
 
@@ -291,12 +292,12 @@ console.log( 8 % 3 ) // 2
 
 **Recommended readings**
 
-* http://eloquentjavascript.net/ chapter "Values, Types, and Operators"
-* http://eloquentjavascript.net/ chapter "Program Structure"
+* https://www.codecademy.com/learn/javascript
+* http://eloquentjavascript.net/ chapter "Values, Types, and Operators" + "Program Structure"
 * http://www.w3schools.com/js/js_variables.asp
 * http://www.w3schools.com/js/js_arrays.asp
 * http://www.w3schools.com/js/js_operators.asp
-* https://www.codecademy.com/learn/javascript
+
 
 **Exercises**
 
@@ -406,8 +407,7 @@ for( var objectKey in object ) {
 
 **Recommended readings**
 
-* http://eloquentjavascript.net/ chapter "Functions"
-* http://eloquentjavascript.net/ chapter "Objects and Arrays"
+* http://eloquentjavascript.net/ chapter "Functions" + "Objects and Arrays"
 * http://www.w3schools.com/js/js_functions.asp until "Self-Invoking Functions"
 * http://www.w3schools.com/js/js_objects.asp
 
@@ -420,13 +420,13 @@ for( var objectKey in object ) {
 > **Part 1**
 > Give it a title property with a value that is the title of your book.
 > Give it a body property which has an array of strings as the value. There should be at least three strings within the array. This array represents the pages of text within your book.
-> 
+>
 > **Part 2**
 > Create another object with the same format, but different title and different body.
-> 
+>
 > **Part 3**
 > Now, create a function that *reads* the book by first printing out the title, then printing out each element (page) in the body. For a book with title "Infinite Jest" and pages "Written by David Foster Wallace", "Hal Incandenza is the youngest of the Incandenza children.", and "As a child, he was very precocious.", the output should read as follows:
-> 
+>
 > ```
 > Title: Infinite Jest
 > Page 1: Written by David Foster Wallace
@@ -493,15 +493,15 @@ professor( 5, 2, function( thing, thing2 ) {
 **Exercise**
 
 > **Math functions**
-> 
+>
 > **Part 1**
 > - Create a function "findSum" that takes in two parameters and returns the sum of those parameters.
 > - Create a function "findProduct" that takes in two parameters and returns the product of those parameters.
-> 
+>
 > **Part 2**
 > - Create a function "threeOperation" that takes in two parameters, named "x" and "operation". The first parameter is a number. The second parameter is a function.
 > - "threeOperation" should call the "operation" parameter as a function. It should pass the number 3 along with the "x" parameter to that function.
-> 
+>
 > **Part 3**
 > - Call "threeOperation" with the values of "4" and "findSum". Check that your answer is "7".
 > - Call "threeOperation" with the values of "5" and "findSum". Check that your answer is "8".
@@ -545,73 +545,73 @@ console.log( undead.real )
 **Exercises**
 
 > **Prototype Practice**
-> 
+>
 > - Create a new class called EmailList. The constructor function should take in one parameter, "name", and return an instance which contains the following:
 >     - name, the name of the email list
 >     - list, an array of all the emails in that list. Note that initially, the array will be empty.
-> 
+>
 > - Add a function to the EmailList's prototype. This function should be called "addEmail", and it should take one parameter, the email address, and add it to the "list" array of the instance.
-> 
+>
 > - Add another function to the prototype, called "sendEmailToAll". This function should take in one parameter: the text of the email, and then "send an email to each address". Since that lecture will be sometime in week 6, for now, simply print out the following:
-> 
+>
 > ```
 > "Email content:"
 > <list the text of the email to be sent>
-> 
+>
 > "Sending email to:"
 > <list all email addresses>
 > ```
 
 Additionally:
 
-> For the following questions, make sure to include at least two tests for each function. For now, that means calling your function with some values and printing out the answer. If you want to make Lloyd's life easier, print out the expected value as well.
-> 
+> For the following questions, make sure to include at least two tests for each function. For now, that means calling your function with some values and printing out the answer. If you want to make your TA's life easier, print out the expected value as well.
+>
 > ----------------------
-> 
+>
 > Write a function that returns the area of a circle, given the radius.
 > Hints: The area of a circle is "pi r 2". For pi, use Math.PI.
-> 
+>
 > ----------------------
-> 
+>
 > Given a string, create a function that returns the last character in that string.
 > example:
 > "cattywampus" --> "s"
-> 
+>
 > ----------------------
-> 
+>
 > Write a function that takes in one parameter "length" and prints out that many stars.
 > example:
 > 3 --> ***
 > 5 --> *****
-> 
+>
 > ----------------------
-> 
+>
 > Now, write a function that takes in one parameter "length" and prints out a square of stars.
 > examples:
-> 
+>
 > 3 --> ***
 >       ***
 >       ***
-> 
+>
 > 5 --> *****
 >       *****
 >       *****
 >       *****
 >       *****
 > ----------------------
-> 
+>
 > Given an array of integers, write a function that finds the average and returns it.
-> 
+>
 > examples:
 > [1,2,3] --> 2
 > [1,2,4] --> 2.3333
-> 
+>
 > ----------------------
-> 
+>
 > OPTIONAL CHALLENGE
-> 
+>
 > Write a function that takes in two arrays of integers and returns the largest common integer. If there are no common integers, return 'undefined'.
-> 
+>
 > example:
 > [5, 10, 2], [3, 5, 7] returns 5
 > [8, 7, 6], [1, 2, 8, 200] returns 8
@@ -646,57 +646,7 @@ Additionally:
 * http://www.w3schools.com/html/default.asp (revisit HTML in general)
 * http://www.w3schools.com/css/ (revisit css in general)
 * https://jquery.com/
-
-**Project personal website**
-
-> **Personal Website**
-> 
-> A personal site serves a similar, but distinct, role to your resume. Its primary purpose is to display your portfolio.
-> 
-> **Website requirements**
-> 
-> - a way to contact you
-> - a description of who you are
-> - a presentation your projects. Select only the work which has a high degree of polish, and secondarily showcases your most complex technical achievements
-> - guidelines for showcasing a project. Have the following:
->     - a screenshot(s) of the best part of the site
->     - description of the project / technologies used
->     - a link to the site
->     - a link to the source code
-> 
-> **Process requirements**
-> 
-> - use github
-> - commit often and with descriptive messages
-> 
-> **Structure requirements**
-> 
-> - position your html files in the root directory
-> - position css and js files in a folder called 'includes'
-> - comply with W3C code standards
-> - no not use external CDN resources, host everything yourself
-> 
-> **Recommendations & challenges**
-> 
-> - find a way to use the same head and footer sections without having duplicate code
-> - use a framework like Bootstrap or Materialize
-> - optimize your website for fast delivery
->     - consider page and resource size
->     - consider minification
->     - use Google page speed insights and gtmterix
-> 
-> **Peripheral resources**
-> 
-> - find out what is needed to have your website live on the internet
->     - consider domains
->     - consider servers and their software
->     - consider the specific needs for your website
-> - find out how to deal with deployment and changes in your website
-> 
-> **Design guidelines and inspiration**
-> 
-> - this page is one of your faces online, make it look good
-> - consider the needs and preferences of your target audience
+* http://try.jquery.com/
 
 
 ## Source control
@@ -713,26 +663,27 @@ Source: https://www.troyhunt.com/life-without-source-control-share-your/
 ```
 
 **Recommended readings**
-* https://www.youtube.com/watch?v=0fKg7e37bQE
 * https://try.github.io ( dynamic tutorial )
+* https://www.youtube.com/watch?v=0fKg7e37bQE
+
 
 **Homework**
 
 **Project Business Website**
- 
+
 > Work in groups of two or three. Note: each person will receive a separate grade based on their contributions on Github.
 > Choose a business, then build a website for that business. The business can be real or imagined.
-> 
+>
 > **Design requirements:**
 > Prior to coding, spend time sketching out the site's layout. Scan in and submit your sketch as part of your submission. The primary importance of this is for future employers to see your thought process when designing the site.
-> 
+>
 > **Site requirements:**
 > - A minimum of four separate pages
 > - Use photographs
 > - Using JavaScript and jQuery, add at least two interactive elements to the site. Options include, but are not limited to:
 >    - animated drop down navigation bars
 >    - a photo gallery that, on click, displays large versions of the photos
-> 
+>
 > **Git requirements:**
 > - When creating each page, create a separate branch on git. Add your commits to that branch. Then, when the page is complete, issue a pull request. Your other team member(s) must review and then merge that branch into master. Branch names should be named after features. Do not push directly to master, aside from your initial commit.
 
@@ -804,11 +755,11 @@ fs.readFile('./embarrassing.jpg', 'utf-8', function(err, data){
 
 Filestructure:
 > --node-modules (folder)
-> 
+>
 > .gitignore
-> 
+>
 > app.js
-> 
+>
 > sayhello.js
 
 ```shell
@@ -846,22 +797,22 @@ node app.js Peter
 
 **Exercise**
 > Country Information App
-> 
+>
 > **Part 1**
 > Create a Node.js application that does the following:
 > - Takes in one parameter from the command line, the name of a country. Note: command line arguments can be read from the global array `process.argv`
 > - Reads and parses the `countries.json` file. Note: you must use readFile and not readFileSync.
 > - Outputs information about that specific country. Must be in the following format:
-> 
+>
 > Country: Netherlands
 > Top Level Domain: .nl
-> 
+>
 > **Part 2**
 > - For the purposes of this exercise, you must create a separate module for reading and parsing the JSON file, named "json-file-reader".
 > - This module should have a function that takes in a filename and a callback function as a parameter. It should then read that file, then parse the JSON. Finally, it should call the callback function and pass the parsed JSON to it.
 > - One way to think of this module is as a helper that can read and parse any JSON file. It has nothing to do with 'countries', so to speak.
 > - Another way to think of it is as a small wrapper to fs.readFile, except that this function only works with JSON files.
-> 
+>
 > Hints:
 > - Use JSON.parse (https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse (Links to an external site.)) to parse JSON data from files into a JavaScript object.
 > - Try first completing the assignment without creating a separate module - Extracting the second module out is significantly more difficult.
@@ -869,26 +820,26 @@ node app.js Peter
 ## cURL
 
 > // GET request
-> 
+>
 > ```bash
 > curl -v example.com
 > ```
-> 
+>
 > // POST request
-> 
+>
 > ```bash
 > curl -v --data "param1=value1&param2=value2" example.com/resource.cgi
 > ```
-> 
+>
 > // GET request with headers
-> 
+>
 > ```bash
 > curl -v example.com --header "Content-Type:application/json"
 > ```
-> 
-> 
+>
+>
 > // Specify http command with -X
-> 
+>
 > ```bash
 > # the following two are the same:
 > curl example.com
@@ -901,13 +852,13 @@ node app.js Peter
 > - Remember to add "node_modules" to your .gitignore file. Otherwise, a lot of other people's code is going to end up in your repository.
 > - If you did not originally create the repo, you must "fork" it on github, which will make a copy and put it on your github.
 > - express.static() looks for 'index.html' by default, so rename your home page to that. Alternatively, serve a different default file using the following syntax:
-> 
+>
 > ```js
 > app.use(express.static('myStaticPath', {
 >     index: 'myNonDefaultHomepage.html'
 > }));
 > ```
-> 
+>
 > **Instructions**
 > - Take the website that you built previously, and create a new branch on git so the old version is still available for grading / reviewing.
 > - Put your website on a Node.js server, so that it can be reached at http://localhost:3000.
@@ -946,20 +897,20 @@ html
 **Exercise**
 
 > **User Information App - Web Server**
-> 
+>
 > Create a Node.js application that is the beginning of a user management system. Your users are all saved in a "users.json" file, and you can currently do the following:
 > - search for users
 > - add new new users to your users file.
-> 
+>
 > **Part 0**
 > Create one route:
 > - route 1: renders a page that displays all your users.
-> 
+>
 > **Part 1**
 > Create two more routes:
 > - route 2: renders a page that displays a form which is your search bar.
 > - route 3: takes in the post request from your form, then displays matching users on a new page. Users should be matched based on whether either their first or last name contains the input string.
-> 
+>
 > **Part 2**
 > Create two more routes:
 > - route 4: renders a page with three forms on it (first name, last name, and email) that allows you to add new users to the users.json file.
@@ -975,11 +926,11 @@ var request = $.ajax({
   data: { id : menuId },
   dataType: "html"
 });
- 
+
 request.done(function( msg ) {
   $( "#log" ).html( msg );
 });
- 
+
 request.fail(function( jqXHR, textStatus ) {
   alert( "Request failed: " + textStatus );
 });
@@ -1012,36 +963,36 @@ $("button").click(function(){
 **Exercise**
 
 > **User Information App - AJAX Server**
-> 
+>
 > Starting with your previous website, create a new branch to preserve the old site.
 > Your site has a form on it that acts like a search bar. On click, it should retrieve a list of matching users and list them by name on the same page, similar to how the search bars on airbnb.com or hipmunk.com function.
-> 
+>
 > Hints:
 > - use https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf
 > - you cannot send or render a response more than once per request.
 > - you must find a way to capture whenever the user's input changes in the search bar. This will trigger your Ajax request to your server.
-> 
+>
 > **Part 0: If you're having trouble finding matching users, solve this puzzle first:**
-> 
+>
 > ```js
 > // given an array of values, write a function that finds the index of where the value is located, and if nothing is found, returns -1.
 > // example: for ['apple', 'orange', 'pineapple']
 > // 'orange' returns '1'
 > // 'durian' returns '-1'
-> 
+>
 > // now, write a function that finds all the indexes of where the value is located and returns them in an array, and if nothing is found, returns -1
 > // example: ['apple', 'orange', 'orange', 'pineapple']
 > // 'orange' returns [1,2]
 > ```
-> 
+>
 > **Part 1: Autocomplete**
 > Modify your form so that every time the user enters a key, it makes an AJAX call that populates the search results.
 > Do this work in a git branch called "autocomplete". Then, merge this branch into master with a pull request.
-> 
+>
 > **Part 2: Bandwidth optimization**
 > Modify your form again so that AJAX requests happen at most once every 300 milliseconds.
 > Do this work in a git branch called "bandwidth-optimization". Then, merge this branch into master with a pull request.
-> 
+>
 > Hints:
 > - use https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now
 > - test it by opening the Network tab in Chrome's Developer Tools by checking that fewer requests are going off.
@@ -1089,9 +1040,9 @@ var pg = require('pg');
 //connect to a database
 pg.connect('postgres://user:password@localhost/my_db', function(err, client, done) {
   //add a new hat
-  client.query(`insert into hats 
-        (name, material, height, brim) 
-        values 
+  client.query(`insert into hats
+        (name, material, height, brim)
+        values
         ('cowboy', 'straw', '4', true)`, function(err, result) {
     //should print 'INSERT: 1'
     console.log(`${result.command}: ${result.rowCount}`);
@@ -1113,38 +1064,38 @@ pg.connect('postgres://user:password@localhost/my_db', function(err, client, don
 > - The first page shows people a form where they can add a new message.
 > - The second page shows each of the messages people have posted.
 > Make sure there's a way to navigate the site so users can access each page.
-> 
+>
 > Messages must be stored in a postgres database. Create a "messages" table with three columns:
 > column name / column data type:
-> 
+>
 > - id: serial primary key
 > - title: text
 > - body: text
-> 
+>
 > **Additional Grading Criteria**
-> 
+>
 > As before, your package.json must include the correct dependencies.
-> 
+>
 > Additionally, you must configure postgres as follows:
 > Name your database "bulletinboard".
 > Your postgres username must be read from an environment variable named "POSTGRES_USER".
 > Your postgres password (if present) must be read from an environment variable named "POSTGRES_PASSWORD"
-> 
+>
 > Thus, your connection string in the code will appear as follows:
-> 
+>
 > ```
 > var connectionString = 'postgres://' + process.env.POSTGRES_USER + ':' + process.env.POSTGRES_PASSWORD + '@localhost/bulletinboard';
 > ```
-> 
+>
 > set an environment variable by opening either ~/.bash_profile for OSX or ~/.bashrc for Linux and adding the line:
-> 
+>
 > ```
 > export POSTGRES_USER=jon
 > export POSTGRES_PASSWORD=mypassword
 > ```
-> 
+>
 > After that, restart your terminal to propagate these changes to your shell.
-> 
+>
 > This will allow your assignments to be graded without having to go into your code and change your connection string to his configuration.
 
 ## Promises
@@ -1217,21 +1168,23 @@ sequelize
 **Recommended readings**
 * https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
 * http://www.javascriptkit.com/javatutors/javascriptpromises.shtml
+* https://spin.atomicobject.com/2016/02/16/how-javascript-promises-work/
+* https://developers.google.com/web/fundamentals/getting-started/primers/promises
 
 **Exercise**
 * Bulletin Board App
 
 > **ORM-Lite module**
-> 
+>
 > Create a module called `orm-lite` that gives a user the following functions to work with:
 > - A function named `initialize` that takes in a connection string as a parameter. Save this to a global variable so that later function calls can connect to the designated postgres database.
 > - A function named `getAll` that takes the name of a table as a parameter, as well as a 'callback' parameter. The function should connect to the postgres database and get the contents of that table in an array. Invoke the callback with the table contents.
-> - A function named `findById` that behaves similarly to `getAll` above, except that it additionally accepts an 'id' parameter. It should retrieve the row specified by the id and send it to the callback. 
-> 
-> 
+> - A function named `findById` that behaves similarly to `getAll` above, except that it additionally accepts an 'id' parameter. It should retrieve the row specified by the id and send it to the callback.
+>
+>
 > Secondly, test this module:
 > First, in psql, create a table:
-> 
+>
 > ```
 > create table test_user (
 >     id        serial primary key,
@@ -1239,24 +1192,24 @@ sequelize
 >     lastname  text
 > );
 > ```
-> 
+>
 > Now add a few entries to the table:
-> 
+>
 > ```
 > insert into test_user (firstname, lastname) values
 >     ('jackson', 'pollock'),
 >     ('sylvia', 'plath'),
 >     ('daenerys', 'targaryen');
 > ```
-> 
+>
 > Now, create an application that firstly requires the `orm-lite` module, then calls each of its methods, then prints the output. This will allow you to see that everything is in order.
-> 
+>
 > **Bonus: Prototype practice**
-> 
+>
 > Create a `Table` class. The class should take in the name of a table in the constructor and the connection string and add them to the `this` object. Now, attach a `getAll()` function attached to its prototype. The `getAll()` function should now read the table name from `this`'s table name property.
 > In other words, `getAll("user")` would become `User.getAll()`.
 > Do the same for `findById`.
-> 
+>
 > In this manner, users of your module can create instances of your class that represent their tables, which will automatically have methods on them that allow data retrieval from those tables.
 
 ## Cookies & Sessions
@@ -1290,7 +1243,7 @@ app.use(session({
 }));
 
 app.set('views', './src/views');
-app.set('view engine', 'jade');
+app.set('view engine', 'pug');
 
 app.get('/', function (request, response) {
     response.render('index', {
@@ -1367,35 +1320,36 @@ sequelize.sync({force: true}).then(function () {
 * https://github.com/expressjs/cookie-parser
 * https://github.com/expressjs/session
 
+
 **Exercise**
 
 > **Basic Node Blog**
-> 
+>
 > Build a basic blogging app in Node.
-> 
+>
 > There should be a User, Post, and Comment model.
-> 
+>
 > The app should have similar functionality to Tumblr - users can login, write posts, comment on other users' posts, etc.
-> 
+>
 > Work on this project with another student collaboratively, following the same process as with the micro-blogging app:
 >   - Sketch out the way your app will look
 >   - Create a basic repo, push to GitHub, create and assign issues
 >   - Develop the software collaboratively!
-> 
+>
 > **Grading Criteria**
-> 
+>
 > User model sign up, in, login, edit, delete
 > __5 Points__
-> 
+>
 > Post and Comment model allow current user to post
 > __8 Points__
-> 
+>
 > Follow other users, follow and unfollow other users, join table
 > __5 Points__
-> 
+>
 > Code is well commented and contains a README
 > __2 Points__
-> 
+>
 > __Total__: 20 Points
 
 ### BCrypt
@@ -1404,7 +1358,7 @@ sequelize.sync({force: true}).then(function () {
 bcrypt.hash("bacon", null, null, function(err, hash) {
     // Store hash in your password DB.
 });
- 
+
 // Load hash from your password DB.
 bcrypt.compare("bacon", hash, function(err, res) {
     // res == true
@@ -1420,9 +1374,9 @@ bcrypt.compare("veggies", hash, function(err, res) {
 **Exercise**
 
 > Add encryption to your blog application so that your user's passwords are stored safely. Do this in a new branch called "encryption", then merge this back into your main branch.
-> 
+>
 > Use the "bcrypt" library, and see: https://github.com/j7caiman/nodejs-sample-apps/tree/master/bcrypt_example for an example on how to use it.
-> 
+>
 > Aside: Remember to use the input of type "password" so that the form field will appear as "*****" - otherwise, people looking over the shoulders of your users' screens will be able to steal their passwords.
 >
 
@@ -1432,9 +1386,9 @@ bcrypt.compare("veggies", hash, function(err, res) {
 
 > Consider this scenario:
 > You are building an application that connects people who want to learn languages with each other. Each user is fluent in at least one language, and is trying to learn at least one other language. Your application matches compatible users with one another so that through an exchange, they can teach each other the languages they are good at.
-> 
+>
 > Your matching algorithm is as follows:
-> 
+>
 > For a user who is fluent in language X and wants to learn how to speak language Y, match them with all the users who are fluent in language Y and desire to speak language X.
 > Note that users can be fluent in multiple languages, and can also desire to learn multiple languages.
 > For example, say your site has the following users:
@@ -1442,14 +1396,14 @@ bcrypt.compare("veggies", hash, function(err, res) {
 > - Finn:    fluent in German              | wants to learn Spanish
 > - Nathan:  fluent in French              | wants to learn English and Spanish
 > - Natasha: fluent in English             | wants to learn Mandarin
-> 
+>
 > When Iris signs on, she'll be matched with Finn and Nathan.
 > When Finn or Nathan sign on, they'll be matched with Iris.
 > Natasha will not be matched with anyone until the site has more users.
-> 
+>
 > Part 1:
 > You currently have two tables: Users and Languages. Draw a diagram that describes how you will store users' desired languages and users' fluent languages, including any added tables you need, as well as those tables' columns.
-> 
+>
 > Part 2:
 > When a user logs on to your site, describe the algorithm you will use to match that user with other users. Starting with the current user's id, how will you fetch his desired and fluent languages? What will you do after that?
 
@@ -1460,6 +1414,57 @@ bcrypt.compare("veggies", hash, function(err, res) {
 > Install Bootstrap or another CSS framework like MaterializeCSS onto one of your applications.
 > Use the grid system to make your site responsive and look appropriate on both desktop and mobile devices.
 
+**Project personal website**
+
+> **Personal Website**
+>
+> A personal site serves a similar, but distinct, role to your resume. Its primary purpose is to display your portfolio.
+>
+> **Website requirements**
+>
+> - a way to contact you
+> - a description of who you are
+> - a presentation your projects. Select only the work which has a high degree of polish, and secondarily showcases your most complex technical achievements
+> - guidelines for showcasing a project. Have the following:
+>     - a screenshot(s) of the best part of the site
+>     - description of the project / technologies used
+>     - a link to the site
+>     - a link to the source code
+>
+> **Process requirements**
+>
+> - use github
+> - commit often and with descriptive messages
+>
+> **Structure requirements**
+>
+> - position your html files in the root directory
+> - position css and js files in a folder called 'includes'
+> - comply with W3C code standards
+> - no not use external CDN resources, host everything yourself
+>
+> **Recommendations & challenges**
+>
+> - find a way to use the same head and footer sections without having duplicate code
+> - use a framework like Bootstrap or Materialize
+> - optimize your website for fast delivery
+>     - consider page and resource size
+>     - consider minification
+>     - use Google page speed insights and gtmterix
+>
+> **Peripheral resources**
+>
+> - find out what is needed to have your website live on the internet
+>     - consider domains
+>     - consider servers and their software
+>     - consider the specific needs for your website
+> - find out how to deal with deployment and changes in your website
+>
+> **Design guidelines and inspiration**
+>
+> - this page is one of your faces online, make it look good
+> - consider the needs and preferences of your target audience
+
 ## Project specification & teamwork
 
 **Exercise**
@@ -1468,7 +1473,7 @@ Group Project
 
 > In groups of two to three, create a web application using the technologies covered so far. Use Git and Github to collaborate.
 > Prior to coding, you must complete a design specification and technical specification, located here: [Specification](./design-brief-and-project-specifications.md)
-> 
+>
 > This group project is a chance to expand your portfolio and demonstrate to future employers your ability to work on teams.
 
 ## Data validation
@@ -1476,21 +1481,21 @@ Group Project
 ```js
  function validate()
       {
-      
+
          if( document.myForm.Name.value == "" )
          {
             alert( "Please provide your name!" );
             document.myForm.Name.focus() ;
             return false;
          }
-         
+
          if( document.myForm.EMail.value == "" )
          {
             alert( "Please provide your Email!" );
             document.myForm.EMail.focus() ;
             return false;
          }
-         
+
          if( document.myForm.Zip.value == "" ||
          isNaN( document.myForm.Zip.value ) ||
          document.myForm.Zip.value.length != 5 )
@@ -1499,7 +1504,7 @@ Group Project
             document.myForm.Zip.focus() ;
             return false;
          }
-         
+
          if( document.myForm.Country.value == "-1" )
          {
             alert( "Please provide your country!" );
@@ -1556,7 +1561,7 @@ $divider-color:        #BDBDBD;
             border-radius: $radius;
 }
 
-.box { 
+.box {
     @include border-radius(10px);
 }
 
@@ -1595,21 +1600,21 @@ $divider-color:        #BDBDBD;
 
 > - Write a function that takes in an array of numbers and checks whether each number is less than the previous one.
 > - Return true if all of them fit this condition, otherwise return false
-> 
-> 
+>
+>
 > - Write comprehensive tests for this function.
-> 
+>
 > ```js
 > // Write a function that fulfils the following tests:
 > function test(methodToTest) {
 >         if(methodToTest(1,2,3) === 6) {
 >             console.log("test 1 passed");
 >         }
-> 
+>
 >         if(methodToTest(-1, 0, 1) === 0) {
 >             console.log("test 2 passed");
 >         }   
-> 
+>
 >         if(methodToTest(10, 20, 1) === 31) {
 >             console.log("test 3 passed");
 >         }
@@ -1628,33 +1633,32 @@ Notes:
 **Final Project**
 
 > Design Brief / Project Specifications
-> 
+>
 > Note: I have left the formatting to you.
-> 
+>
 > State the purpose of your application clearly and concisely. Try to do it in a single sentence.
-> 
+>
 > In a block, answer the following questions:
 >     What is the problem you are trying to solve?
 >     Who is your target audience?
 >     What are your specific goals?
-> 
+>
 > In another block, answer the following:
 >     What is your business model? Where is your revenue coming from?
 >     What are the costs of your business?
-> 
+>
 > Market research:
 >     Who is your current competition?
 >     How is your product different from currently available competitors?
 >     What is the current supply / demand for your product?
-> 
+>
 > Technical Specifications:
 >     What data will you need to store? How will it be organized? Describe each table, its columns, and its relationships with other tables.
 >     What does your product look like? List each view, their purpose, and how they work
 >     Describe any complex business logic that is happening in your application. For example, how does data flow through your application
-> 
+>
 > Have a timeline of milestones to reach:
 >     Create milestones that represent the discrete blocks of functionality.
 >     Give an estimate for how long each will take per engineer.
 >     Determine whether things can be built concurrently.
 >     Come up with a timeline of goals to stick to.
-
